@@ -1,11 +1,17 @@
 # How to run docker on Windows without Docker Desktop
 ##### Table of Contents 
   [1. Why Isn't Docker Desktop Used](#1-why-not-docker-desktop-used)
+
   [2. Prerequisites](#2-prerequisites)
+
   [3. Setup WSL2](#3-setup-wsl2)
+
   [4. Setup Docker on Ubuntu](#4-setup-docker-on-ubuntu)
+
   [5. How to run "docker commands" on Windows](#5-how-to-run-docker-commands-on-windows)
+
   [6. Configure VSCode to access to WSL2 docker](#6-configure-vscode-to-access-to-wsl2-docker)
+  
   [7. Making everything works without knowing IP](#7-making-everything-works-without-knowing-ip)
 
 ## 1. Why Not Docker Desktop
